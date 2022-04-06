@@ -39,6 +39,12 @@ nav{
 .navigation > ul >li > .home{
     color: rgb(80, 80, 236);
 }
+/* d rop down*/ .chevron{
+    font-size: 10px;
+    display: inline-block;
+  vertical-align:top;
+}
+
 .navigation > ul > li > .get-started{
     border: 2px solid rgb(80, 80, 236);
     color: rgb(80, 80, 236);
